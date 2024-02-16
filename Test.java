@@ -1,6 +1,6 @@
 class Test
 {
-	public stati void main(String ar[])
+	public static void main(String ar[])
 	{
 		int a,b,c;
 		c=a+b;
